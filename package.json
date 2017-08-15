@@ -1,0 +1,12 @@
+{
+  "name": "BasicStarter",
+  "version": "1.0.0",
+  "description": "For frontend web development, let's take a look [React](https://facebook.github.io/react/) as our main library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hidayat Abisena",
+  "license": "ISC"
+}
