@@ -7,12 +7,23 @@ I've created this boilerplate React starter as basic as possible while still inc
 ### Getting Started
 Open up your Terminal, checkout this repo, install dependencies with do this following:
 
+Setup
+---
+ 
 ```
-> git clone https://github.com/hidayatabisena/BasicReactStarter.git
-> cd BasicReactStarter
-> npm install
-> npm start
+npm install
 ```
+ 
+ 
+ 
+Compile
+---
+ 
+```
+npm run compile
+```
+
+
 
 ### Usage
 Open [http://localhost:3000/](http://localhost:3000/).
