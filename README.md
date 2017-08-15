@@ -11,18 +11,11 @@ Setup
 ---
  
 ```
-npm install
+> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
+> cd ReduxSimpleStarter
+> npm install
+> npm start
 ```
- 
- 
- 
-Compile
----
- 
-```
-npm run compile
-```
-
 
 
 ### Usage
