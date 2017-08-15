@@ -11,8 +11,8 @@ Setup
 ---
  
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/hidayatabisena/BasicReactStarter.git
+> cd BasicReactStarter
 > npm install
 > npm start
 ```
