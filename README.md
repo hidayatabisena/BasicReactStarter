@@ -25,7 +25,7 @@ can be a good way to learn.
 Babel and Webpack are the tooling that completely essential in a React project.
 
 **Webpack:** Webpack serves as both the web server and the JavaScript bundler.
-**Babel:** We will use JSX in our components, and Babel serves this well.
+**Babel:** We will use JSX in our components, and JSX is a succinct way to write out the layout of a React component. Babel transforms the ES6 JavaScript that we will be writing into ES5 JavaScript that current browsers can understand.
 
 ### More Details
 * no CSS. Will add later on the next release, perhaps.
